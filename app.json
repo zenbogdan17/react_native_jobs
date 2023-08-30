@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "react_native_jobs",
+    "slug": "react_native_jobs",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "9e4b4511-ef9f-42e0-8f3a-5db06b217808"
+      }
+    },
+    "android": {
+      "package": "com.tronix_x.react_native_jobs"
+    }
+  }
+}
